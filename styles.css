@@ -1,0 +1,39 @@
+ .main{
+    text-align: center;
+    color:blueviolet
+
+}
+ *{
+   background-color: beige;
+   
+
+ }
+   h1{
+      font-size: 60px;
+
+
+
+
+ }
+ img {
+   width: 400px;
+   height: auto;
+   display: block;
+   margin-right: auto;
+   margin-left: auto;
+
+
+ }
+.ing{
+   color:royalblue
+}
+ .sect{
+   display: block;
+   margin: auto;
+
+
+ }
+  ul{
+   font-size: 28px;
+
+  }
